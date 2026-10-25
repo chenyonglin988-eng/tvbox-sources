@@ -1,6 +1,4 @@
 {
-  "spider": "",
-  "wallpaper": "",
   "sites": [
     {
       "key": "360zy",
@@ -74,27 +72,5 @@
       "searchLib": 0,
       "level": 1
     }
-  ],
-  "tvboxDesktop": {
-    "home": {
-      "sections": [
-        {
-          "title": "360资源 · 最近更新",
-          "site": "360zy"
-        },
-        {
-          "title": "电影天堂 · 最近更新",
-          "site": "dyttzy"
-        },
-        {
-          "title": "非凡资源 · 最近更新",
-          "site": "feifan"
-        },
-        {
-          "title": "量子资源 · 最近更新",
-          "site": "lzwl"
-        }
-      ]
-    }
-  }
+  ]
 }
