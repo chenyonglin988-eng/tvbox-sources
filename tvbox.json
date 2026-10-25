@@ -1,0 +1,14 @@
+{
+  "name": "自定义源",
+  "sites": [
+    {
+      "key": "vod_167ggwo",
+      "name": "www.hongniuzy2.com",
+      "type": 3,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "searchable": 1,
+      "searchLib": 0,
+      "level": 1
+    }
+  ]
+}
